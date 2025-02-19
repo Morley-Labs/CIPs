@@ -10,8 +10,9 @@ Implementors:
   - "Morley-Labs"
   - "Christopher Hockaday"
 Discussions:
-  - "https://github.com/Morley-Labs/Morley-Component-Specifications"
-  - "Add link to GitHub Discussion or forum post"
+  - "[CIP Repository Discussion](https://github.com/Morley-Labs/CIPs/discussions/1)"
+  - "[Organization-Wide Discussion](https://github.com/orgs/Morley-Labs/discussions/1)"
+  - "[Morley Component Specifications Repository](https://github.com/Morley-Labs/Morley-Component-Specifications)"
 Created: "2025-02-19"
 License: "CC-BY-4.0"
 ---
